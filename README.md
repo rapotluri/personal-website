@@ -1,2 +1,2 @@
 # personal-website
-A personal resume website with my experiences, projects &amp; skills
+A personal resume website showcasing my experiences, projects &amp; skills
